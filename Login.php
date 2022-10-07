@@ -14,8 +14,7 @@
 		</form>
 
     <?php
-    $UserID = $_POST["UserID"];
-	
+    
 	// retrieve the current user list
 	// from CSE330 wiki
 	$userlist = array();
@@ -26,21 +25,28 @@
 		array_push($userlist,trim(fgets($file)));
 	}
 	fclose($file);
-	
-	// check if user exists
-	if(in_array($UserID,$userlist)) {
-		// record the current user
-		session_start();
-		$_SESSION['UserID'] = $UserID;
-		session_write_close();
+	if (isset($_POST["UserID"]) ) {
+		$UserID = $_POST["UserID"];
 		
-		echo 'Login successfully;';
-		header("Location: FileManagement.php");
+		if (!preg_match('/^[\w_\.\-]+$/', $UserID) || $UserID == "") {
+			echo "INVALID INPUT";
+			exit;
+		}
+		// check if user exists
+		if(in_array($UserID,$userlist)) {
+			// record the current user
+			session_start();
+			$_SESSION['UserID'] = $UserID;
+			session_write_close();
+		
+			echo 'Login successfully;';
+			header("Location:FileManagement.php");
+			exit;
+		}
+		else {
+			echo 'User not exists!<br>';
+		}
 	}
-	else {
-		echo 'User not exists!<br>';
-	}
-
     ?>
     </body>
 </html>

@@ -33,7 +33,7 @@ if (!isset($_SESSION["UserID"])){
     if (is_dir($filePath)){
         $fileList = opendir($filePath);
         while (false !== ($file= readdir($fileList))){
-            echo "<p>$file</p>";
+            echo htmlentities($file);
         }
         closedir($fileList);
     }
