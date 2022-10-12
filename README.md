@@ -27,9 +27,10 @@ siyi981127
 5. Enter ‘file name’ you want to delete and  click ‘delete’ to delete.(There’s no double check for deleting any file, be careful!)
 6. Enter ‘file name’ and ‘user name’, file sharing is done.
 
-![Login]"https://user-images.githubusercontent.com/112436211/195266706-2b408900-76ce-4b59-8432-fdf7b7a989e7.PNG">
+![Login](https://user-images.githubusercontent.com/112436211/195266706-2b408900-76ce-4b59-8432-fdf7b7a989e7.PNG)
 
-![FileManagement](file:///Users/sylvia/Downloads/IMG_3937.JPG)
+![FileManagement](https://user-images.githubusercontent.com/112436211/195267225-fd742252-a884-419a-aefc-edd17d544d60.JPG)
+
 
 
  ## Creative Portion
