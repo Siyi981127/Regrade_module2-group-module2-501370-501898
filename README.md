@@ -26,13 +26,10 @@ siyi981127
 4. Enter ‘file name’ you want to open and  click ‘open’ to read.
 5. Enter ‘file name’ you want to delete and  click ‘delete’ to delete.(There’s no double check for deleting any file, be careful!)
 6. Enter ‘file name’ and ‘user name’, file sharing is done.
-
-https://user-images.githubusercontent.com/112436211/195266706-2b408900-76ce-4b59-8432-fdf7b7a989e7.PNG
 ```
-![image](https://user-images.githubusercontent.com/112436211/195267225-fd742252-a884-419a-aefc-edd17d544d60.jpg)
+![Login](https://user-images.githubusercontent.com/112436211/195269128-74068ef7-a175-402c-a065-a93924adb1e8.JPG)
+![FileManagement](https://user-images.githubusercontent.com/112436211/195269023-a9a5feac-4c09-45a1-8587-f8f5516ddb44.JPG)
 
-
-![image](https://user-images.githubusercontent.com/112436211/195267557-2f76a4d9-b617-4cb7-a53e-f4583f4e50b2.jpg)
 
 
 ## Creative Portion
