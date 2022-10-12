@@ -34,6 +34,7 @@ if (!isset($_SESSION["UserID"])){
         $fileList = opendir($filePath);
         while (false !== ($file= readdir($fileList))){
             echo htmlentities($file);
+            echo '<br>';
         }
         closedir($fileList);
     }
