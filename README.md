@@ -29,7 +29,7 @@ siyi981127
 
 ![Login]"https://user-images.githubusercontent.com/112436211/195266706-2b408900-76ce-4b59-8432-fdf7b7a989e7.PNG">
 
-![FileManagement](https://user-images.githubusercontent.com/112436211/195266498-f3c76d3d-99ef-4e19-91c8-fdda5e211da7.JPG)
+![FileManagement](file:///Users/sylvia/Downloads/IMG_3937.JPG)
 
 
  ## Creative Portion
