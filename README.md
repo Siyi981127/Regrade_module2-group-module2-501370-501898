@@ -19,17 +19,12 @@ siyi981127
 ```
 1. Login an account
 2. Click ‘choose file‘ to select a file for upload, then click ‘upload’.
-
-      - If the file is already in your File List, the system will show ‘The file already exist’
-
+- If the file is already in your File List, the system will show ‘The file already exist’
 - If upload successfully, the system will show ‘Upload Successfully’
-
 -If upload unsuccessfully, the system will show ’Upload Unsuccessfully. Please try again’
-
-1. Click ‘File List’ to show your file list
-2. Enter ‘file name’ you want to open and  click ‘open’ to read.
-3. Enter ‘file name’ you want to delete and  click ‘delete’ to delete.(There’s no double check for deleting any file, be careful!)
-
+3. Click ‘File List’ to show your file list
+4. Enter ‘file name’ you want to open and  click ‘open’ to read.
+5. Enter ‘file name’ you want to delete and  click ‘delete’ to delete.(There’s no double check for deleting any file, be careful!)
 6. Enter ‘file name’ and ‘user name’, file sharing is done.
 ```
 
