@@ -34,6 +34,7 @@ siyi981127
 2. User can share files with another user in the system.
 ```
 ```
-Additional login Details:
-TA can login with one of the following UserID: Wangsi, Chris, Siyi
+Additional Details:
+1. TA can login with one of the following UserID: Wangsi, Chris, Siyi
+2. Pictures in 'pic' directory are screenshots of passing W3C and FIEO code parts
 ```
