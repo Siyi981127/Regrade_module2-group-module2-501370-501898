@@ -32,8 +32,9 @@ https://user-images.githubusercontent.com/112436211/195266706-2b408900-76ce-4b59
 ![FileManagement](https://user-images.githubusercontent.com/112436211/195267225-fd742252-a884-419a-aefc-edd17d544d60.JPG)
 
 
+![IMG_3937](https://user-images.githubusercontent.com/112436211/195267557-2f76a4d9-b617-4cb7-a53e-f4583f4e50b2.JPG)
 
- ## Creative Portion
+## Creative Portion
 ```
 1. The page integrates add/delete/check/show/share file list functions. The users can upload/open/read/delete/share different file formats: plain text, images, spreadsheets, etc.
 2. User can share files with another user in the system.
