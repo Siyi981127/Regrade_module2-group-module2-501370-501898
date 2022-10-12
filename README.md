@@ -24,7 +24,8 @@ siyi981127
 -If upload unsuccessfully, the system will show ’Upload Unsuccessfully. Please try again’
 3. Click ‘File List’ to show your file list
 4. Enter ‘file name’ you want to open and  click ‘open’ to read.
-5. Enter ‘file name’ you want to delete and  click ‘delete’ to delete.(There’s no double check for deleting any file, be careful!)
+5. Enter ‘file name’ you want to delete and  click ‘delete’ to delete.<br>
+   (There’s no double check for deleting any file, be careful!)
 6. Enter ‘file name’ and ‘user name’, file sharing is done.
 ```
 ![Login](https://user-images.githubusercontent.com/112436211/195269128-74068ef7-a175-402c-a065-a93924adb1e8.JPG)
@@ -34,7 +35,8 @@ siyi981127
 
 ## Creative Portion
 ```
-1. The page integrates add/delete/check/show/share file list functions. The users can upload/open/read/delete/share different file formats: plain text, images, spreadsheets, etc.
+1. The page integrates add/delete/check/show/share file list functions. <br>
+   The users can upload/open/read/delete/share different file formats: plain text, images, spreadsheets, etc.
 2. User can share files with another user in the system.
 ```
 ```
