@@ -29,7 +29,7 @@ siyi981127
 
 https://user-images.githubusercontent.com/112436211/195266706-2b408900-76ce-4b59-8432-fdf7b7a989e7.PNG
 
-![FileManagement](https://user-images.githubusercontent.com/112436211/195267225-fd742252-a884-419a-aefc-edd17d544d60.JPG)
+![FileManagement](https://user-images.githubusercontent.com/112436211/195267225-fd742252-a884-419a-aefc-edd17d544d60.jpg)
 
 
 ![IMG_3937](https://user-images.githubusercontent.com/112436211/195267557-2f76a4d9-b617-4cb7-a53e-f4583f4e50b2.JPG)
